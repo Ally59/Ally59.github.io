@@ -1,0 +1,23 @@
+{
+	"username": "Ally59",
+	"goals": [{
+			"goal a": {
+				"field": "To learn new things about HTML",
+				"Confidence": 10
+			}
+		},
+		{
+			"goal b": {
+				"field": "Expand my knowledge of software and moible programming",
+				"Confidence": 6
+			}
+		},
+		{
+			"goal c": {
+				"field": "Use what I have learned to try to get an internship.",
+				"Confidence": 3
+			}
+		}
+	]
+}
+  
