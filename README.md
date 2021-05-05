@@ -1,3 +1,3 @@
 # Ally59.github.io
 
-This the the github page for my projects. 
+Welcome to my webpage! Learn a little more about me and my experience!
